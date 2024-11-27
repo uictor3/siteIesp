@@ -1,0 +1,23 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "titulo": "Lançamento de um novo laboratório de inovação tecnológica",
+        "texto": " A Uniesp inaugurou recentemente um laboratório de última geração, equipado com impressoras 3D, realidade virtual e inteligência artificial.",
+        "img": "Laboratorio.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "Bolsa de estudos para alunos de destaque",
+        "texto": "A Uniesp anunciou um programa de bolsas integrais para os 50 melhores estudantes de escolas públicas da região.",
+        "img": "bolsa de estudos.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Parceria com empresas líderes do mercado",
+        "texto": "A universidade firmou parceria com grandes empresas nacionais e internacionais, criando programas de estágio e emprego exclusivos para seus alunos.",
+        "img": "parceria.jpg"
+      }
+    ]
+  }
+  
