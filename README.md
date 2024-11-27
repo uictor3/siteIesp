@@ -1,7 +1,7 @@
 # SiteDaIesp
 
-O sistema foi criado na biblioteca react. O uso do React facilita muito projetos que envolvem interfaces devido a seus componentes que facilitam a reutilização e a manutenção do código, tornando o trabalho mais produtivo. Para a criação de um projeto React, no terminal do vscode põe o comando “npm create vite@latest”, se escolhe a linguagem na qual irá ser usada entre as opções que são apresentadas, no caso do site iesp foi a opção Javascript e logo após a escolha, dê um nome ao projeto e ao finalizar dê o comando “npm install”, o NPM (node package manager) é o gerenciador de pacotes do node.
-
+O sistema foi criado na biblioteca react, o uso do React facilita muito em projetos que envolvem interfaces devido a seus componentes que torna mais fácil a reutilização e a manutenção do código, tornando o trabalho mais produtivo. 
+Para a criação de um projeto React, no terminal do vscode põe o comando “npm create vite@latest”, se escolhe a linguagem na qual irá ser usada entre as opções que são apresentadas, no caso do site iesp foi a opção Javascript e logo após a escolha, dê um nome ao projeto e ao finalizar dê o comando “npm install”, o NPM (node package manager) é o gerenciador de pacotes do node.
 
 O projeto Site Iesp está dividido em Packages:
 
