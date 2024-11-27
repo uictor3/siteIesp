@@ -25,12 +25,14 @@ Dentro da src tem os:
    pages: onde foi posto as paginas DpoLgpd, Noticias, Faculdade, Inicial e Visualizar Noticias. Todas routeadas no App.jsx e linkadas na barra superior (NavBar).
    
    admin: onde foi posta as funcionalidades dos admins, podendo alterar as noticias.
+
+   A seguir são dois arquivos que estão fora dos packages da src:
    
    App.jsx: ele é o arquivo pai onde os componentes são chamados e faz o roteamento para todas as páginas
 
    App.css e Main.css: servem para estilizar o projeto, porém não foram usados, pois as bibliotecas Mui e Emotion foram as escolhidas para esse papel de estilização.
 
-Fora das pastas tem os arquivos:
+Fora dos packages tem os arquivos:
 	
    .gitignore: existe para o git ignorar o que queremos.
 	
@@ -58,5 +60,5 @@ Bibliotecas usadas:
 	npm install @mui/material @emotion/react @emotion/styled
 	npm install @mui/icons-material --legacy-peer-deps
 
-  Axios: Biblioteca que é utilizada para fazer requisições HTTP, ela ermite o envio ou o recebimento de dados de forma assíncrona.
+  Axios: Biblioteca que é utilizada para fazer requisições HTTP, ela faz o envio ou o recebimento de dados de forma assíncrona.
 	npm install axios
