@@ -34,7 +34,7 @@ Dentro da src tem os:
 
 Fora dos packages tem os arquivos:
 	
-   .gitignore: existe para o git ignorar o que queremos.
+   .gitignore: existe para o git saber quais files ou packages ignorar ao fazer o versionamento do código.
 	
    eslint.config.js: onde está algumas das configurações do projeto.
 
